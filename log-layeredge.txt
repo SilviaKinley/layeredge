@@ -578,3 +578,6 @@
 [11:25:30 | 16-03-2025] Last Claim Point: 15/03/2025 04:25:07
 [11:25:30 | 16-03-2025] ✅ Points claimed for 0x4964fFb1aa0c6d76440287042473b44e6445da51
 [11:25:31 | 16-03-2025] 🚨 Failed to start node for 0x4964fFb1aa0c6d76440287042473b44e6445da51: [object Object]
+[19:39:36 | 16-03-2025] Wallet Address: 0x4964fFb1aa0c6d76440287042473b44e6445da51
+[19:39:36 | 16-03-2025] Node Points: 815080
+[19:39:36 | 16-03-2025] Last Claim Point: 16/03/2025 04:25:30
